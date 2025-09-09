@@ -218,7 +218,7 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayoutPanel1.Size = new Size(496, 100);
             tableLayoutPanel1.TabIndex = 7;
-            tableLayoutPanel1.Paint += tableLayoutPanel1_Paint;
+            //tableLayoutPanel1.Paint += tableLayoutPanel1_Paint;
             // 
             // btnSinh
             // 
@@ -537,7 +537,7 @@
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayoutPanel3.Size = new Size(496, 100);
             tableLayoutPanel3.TabIndex = 10;
-            tableLayoutPanel3.Paint += tableLayoutPanel3_Paint;
+            //tableLayoutPanel3.Paint += tableLayoutPanel3_Paint;
             // 
             // btn0
             // 
